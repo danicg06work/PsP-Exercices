@@ -1,0 +1,7 @@
+Modificar el ejemplo del nslookup visto en clase (el de la presentación), 
+utilizando las clases Scanner y PrintWriter. 
+Utilizar la redirección de salida, para que ambos procesos escriban en pantalla.
+
+1 Que el hijo herede la salida del padre, para ver en todo momento lo que sucede.
+2 Utilizar la clase Scanner, para leer desde teclado los dominios que el padre debe pasar al hijo.
+3 Utilizar el PrintWriter, para conectar la salida del padre con la entrada del hijo. (Para pasarle los dominios)

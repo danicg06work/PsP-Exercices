@@ -1,0 +1,3 @@
+Realizar un programa sencillo, 
+que trate de ejecutar el comando ls -l redireccionando 
+la salida a un fichero pasado como argumento al main.

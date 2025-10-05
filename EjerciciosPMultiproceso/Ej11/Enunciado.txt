@@ -1,0 +1,4 @@
+Utilizando el ProcessBuilder, 
+implementar el comando cat <fichero> pasado como argumento al main. 
+Desde el padre, debéis redireccionar el flujo de salida del hijo al padre y mostrarlo en pantalla.
+

@@ -1,0 +1,9 @@
+Hola
+Buenas tardes
+Yo me llamo dani
+Lo de este fichero tiene que pasar a fichero 2
+Esto del fileWriter esta entretenido
+Es otra forma de pasar datos entre clases
+Auqnue no se si se hace asi siempre
+Adios
+Y suete corrigiendo si lees esto.
