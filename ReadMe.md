@@ -8,7 +8,7 @@
 
 - [Sobre el Proyecto](#sobre-el-proyecto)
 - [Características](#características)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
