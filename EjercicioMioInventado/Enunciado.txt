@@ -1,0 +1,18 @@
+
+El ejercicio consistirá en tres procesos y dos ficheros.
+
+1 El programa mostrará un menú con distintas opciones:
+
+    En la primera opción, el usuario introducirá varios números por consola.
+    El programa calculará la media de esos números, como si se tratara de calcular la nota media de un examen.
+
+2 En la segunda opción, el programa tomará todas esas medias y calculará una media general.
+
+3 El primer proceso se encargará de compilar los otros dos y ejecutarlos.
+
+4 El segundo proceso leerá los datos del fichero mediante una redirección, los procesará calculando la media y, 
+posteriormente, enviará el resultado a otro fichero llamado resultados.txt.
+
+5 El tercer proceso tomará todos los ficheros resultados.txt generados y calculará la media final.
+
+Desarolla un esquema para ayudarte y despues programalo, suerte. 
